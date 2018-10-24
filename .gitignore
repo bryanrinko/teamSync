@@ -1,0 +1,7 @@
+*icalSync.js
+samples/
+
+# Dependency directories
+node_modules/
+
+backlog.txt
